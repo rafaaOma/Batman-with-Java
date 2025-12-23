@@ -1,3 +1,4 @@
+![Batman Drawing](images/batman.png)
 # Batman 2D Graphics (Java)
 
 A simple Java Swing project that draws a Batman-inspired figure using Java Graphics2D.
